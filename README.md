@@ -12,8 +12,8 @@ Here we provide supplementary materials for "**Did COVID-19 Impact Japan's 2021 
 
 Here are the data we collected and analyzed for our chapter. Please read [Appendix](thies_yanai_2022_appendix.pdf) for the details of the data.
 
-- [Pre-election survey](data/thies_yanai_jd2021_pre.csv)
-- [Post-election survey](data/thies_yanai_jd2021_post.csv)
-- [Data set used in regression analyses](data/thies_yanai_jd2021_reg.csv)
+- Pre-election survey: [thies_yanai_jd2021_pre.csv](data/thies_yanai_jd2021_pre.csv)
+- Post-election survey: [thies_yanai_jd2021_post.csv](data/thies_yanai_jd2021_post.csv)
+- Data set used in regression analyses: [thies_yanai_jd2021_reg.csv](data/thies_yanai_jd2021_reg.csv)
 
 
