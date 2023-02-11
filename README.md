@@ -1,6 +1,6 @@
 # ThiesYanaiJD2021
 
-Here we provide supplementary materials for "**Did COVID-19 Impact Japan's 2021 General Election?**" by [Michael F. Thies](http://thies.bol.ucla.edu) and [Yuki Yanai](https://yukiyanai.github.io), Chapter 15 in *Japan Decides 2021: The Japanese General Election* edited by Robert J. Pekkanen, Steven R. Reed, and Daniel M. Smith (Palgrave Macmillan, forthcoming).
+Here we provide supplementary materials for "**[Did COVID-19 Impact Japan's 2021 General Election?](https://link.springer.com/chapter/10.1007/978-3-031-11324-6_15)**" by [Michael F. Thies](http://thies.bol.ucla.edu) and [Yuki Yanai](https://yukiyanai.github.io), Chapter 15 in *[Japan Decides 2021: The Japanese General Election](https://link.springer.com/book/10.1007/978-3-031-11324-6)* edited by Robert J. Pekkanen, Steven R. Reed, and Daniel M. Smith (Palgrave Macmillan, 2023).
 
 
 ## Appendix
